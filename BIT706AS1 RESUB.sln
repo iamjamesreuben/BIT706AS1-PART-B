@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIT706AS1 RESUB", "BIT706AS1 RESUB\BIT706AS1 RESUB.csproj", "{C644A639-B27C-43CE-B0DC-0AE5438924B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C644A639-B27C-43CE-B0DC-0AE5438924B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C644A639-B27C-43CE-B0DC-0AE5438924B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C644A639-B27C-43CE-B0DC-0AE5438924B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C644A639-B27C-43CE-B0DC-0AE5438924B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A600E5B0-6DB8-46E5-9945-B32A235B811D}
+	EndGlobalSection
+EndGlobal
